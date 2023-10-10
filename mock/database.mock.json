@@ -1,0 +1,91 @@
+{
+    "pessoas": [{
+            "id": 1,
+            "tipo": "PF",
+            "nomeCompleto": "Carlos Silva",
+            "email": "carlos@gmail.com",
+            "cidadeId": 1
+        },
+        {
+            "id": 5,
+            "tipo": "PJ",
+            "nomeCompleto": "Xerox do Brasil",
+            "email": "atendimento@xerox.com",
+            "cidadeId": 1
+        },
+        {
+            "id": 6,
+            "tipo": "PF",
+            "nomeCompleto": "Juca Silva",
+            "email": "Juca@gmail.com",
+            "cidadeId": 1
+        },
+        {
+            "id": 7,
+            "tipo": "PJ",
+            "nomeCompleto": "Maria Silva Confecções",
+            "email": "atendimento@mariasilva.com",
+            "cidadeId": 3
+        },
+        {
+            "id": 8,
+            "tipo": "PF",
+            "cidadeId": 1,
+            "email": "carlos@gmail.com",
+            "nomeCompleto": "Carlos Silva"
+        },
+        {
+            "id": 9,
+            "tipo": "PF",
+            "cidadeId": 1,
+            "email": "pedro@gmail.com",
+            "nomeCompleto": "Pedro Silva"
+        },
+        {
+            "id": 1,
+            "tipo": "PJ",
+            "cidadeId": 1,
+            "email": "boca.doce@gmail.com",
+            "nomeCompleto": "Pudins Boca-Doce"
+        },
+        {
+            "id": 10,
+            "tipo": "PJ",
+            "cidadeId": 1,
+            "email": "padaria@gmail.com",
+            "nomeCompleto": "Padaria"
+        }
+    ],
+    "Carros": [{
+            "nome": "Passat",
+            "id": 1
+        },
+        {
+            "nome": "Fiat 147",
+            "id": 2
+        },
+        {
+            "nome": "Fusca",
+            "id": 3
+        },
+        {
+            "nome": "Jeep Willis",
+            "id": 4
+        },
+        {
+            "nome": "Chevette",
+            "id": 5
+        },
+        {
+            "nome": "Corcel",
+            "id": 6
+        },
+        {
+            "nome": "Kombi",
+            "id": 7
+        }
+    ],
+    "auth": {
+        "accessToken": "gbastos"
+    }
+}
